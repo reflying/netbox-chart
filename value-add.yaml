@@ -13,7 +13,7 @@ image:
 superuser:
   name: admin
   email: admin@example.com
-  password: admin
+  password: 8@tBKO2yIa4EH3n4xf9GX@K0wyH34pij
   apiToken: 0123456789abcdef0123456789abcdef01234567
 
 # Skip the netbox-docker startup scripts which can pre-populate objects into a
