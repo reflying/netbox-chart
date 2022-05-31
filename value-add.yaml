@@ -303,6 +303,8 @@ postgresql:
 
   postgresqlUsername: netbox
   postgresqlDatabase: netbox
+  postgresqlPostgresPassword: netbox
+  postgresqlPassword: netbox
 
 ## External database settings
 # These are used if postgresql.enabled is false, and are ignored otherwise
